@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+
+# Build artifacts
+dist/
+artifacts/
+cache/
+typechain-types/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Hardhat
+cache/
+artifacts/
+
+# Downloaded / generated files
+downloaded_*.json
+
+# Matterhorn task state
+.matterhorn/
+
+# Lock files (optional — remove these lines if you want to track them)
+# package-lock.json

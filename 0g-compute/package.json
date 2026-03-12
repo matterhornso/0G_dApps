@@ -1,0 +1,12 @@
+{
+  "name": "0g-compute-test",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@0glabs/0g-serving-broker": "^0.7.3",
+    "ethers": "^6.0.0"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "0G Storage Test",
+  "timestamp": "2026-03-12T00:00:00Z",
+  "payload": "Hello from Galileo testnet!",
+  "values": [1, 2, 3, 42, 100],
+  "nested": {
+    "verified": true,
+    "chain": "0G-Galileo-Testnet",
+    "chainId": 16601
+  }
+}
